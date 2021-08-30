@@ -1,1 +1,1 @@
-# shibbot
+# mynn
